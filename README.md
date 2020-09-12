@@ -5,10 +5,10 @@
 
 ## I'm a Developer and a Site Reliability Engineer!
 
-- 🔭 I’m currently working as a CTO at Divsync LDA [website]!
-- 🌱 I’m currently learning Machine Learning, AI and NLP.
-- 🥅 2020 Goals: Prepare and clear CKAD (Certified Kubernetes Application Developer) certification
-- ⚡ Fun fact: I have over 17000 Upwork hours with 100% client satisfaction
+- 🔭  I’m currently working as a CTO at Divsync LDA [website]!
+- 🌱  I’m currently learning Machine Learning, AI and NLP.
+- 🥅  2020 Goals: Prepare and clear CKAD (Certified Kubernetes Application Developer) certification
+- ⚡  Fun fact: I have over 17000 Upwork hours with 100% client satisfaction
 
 ### Connect with me:
 
@@ -26,6 +26,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
@@ -34,6 +35,9 @@
 
 <br />
 <br />
+
+![Sadan's github stats](https://github-readme-stats.vercel.app/api?username=symmetrically&count_private=true&show_icons=true&theme=dracula)
+
 
 ---
 
