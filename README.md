@@ -14,7 +14,7 @@
 
 [<img align="left" alt="divsync.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="symmetrically | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="symmetrically | Upwork" width="22px" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU2LjcgNTYuNzsiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDU2LjcgNTYuNyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PHBhdGggZD0iTTQyLjQsMTcuN2MtNS4zLDAtOS4zLDMuNS0xMC45LDljLTIuNS0zLjktNC41LTguMy01LjYtMTIuMWgtNS42djE0LjdjMCwyLjktMi40LDUuMy01LjMsNS4zYy0yLjksMC01LjMtMi40LTUuMy01LjNWMTQuNyAgSDQuM3YxNC43YzAsNi4xLDQuOSwxMSwxMC45LDExYzYsMCwxMC45LTQuOSwxMC45LTExdi0yLjVjMS4xLDIuMiwyLjUsNC42LDQsNi43bC0zLjUsMTYuM2g1LjdMMzQuNywzOGMyLjIsMS40LDQuNywyLjIsNy43LDIuMiAgYzYuMSwwLDExLjEtNSwxMS4xLTExLjRDNTMuNSwyMi43LDQ4LjUsMTcuNyw0Mi40LDE3Ljd6IE00Mi40LDM0LjZjLTIuMiwwLTQuNS0xLTYuMy0yLjVsMC42LTIuMnYtMC4xYzAuNC0yLjQsMS43LTYuNCw1LjgtNi40ICBjMy4xLDAsNS42LDIuNSw1LjYsNS42QzQ4LDMyLjEsNDUuMywzNC42LDQyLjQsMzQuNnoiLz48L3N2Zz4=" />][upwork]
+[<img align="left" alt="symmetrically | Upwork" width="22px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" />][upwork]
 
 <br />
 
