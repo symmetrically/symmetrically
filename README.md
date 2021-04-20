@@ -1,18 +1,18 @@
 ### Hi there, I'm Sadan - aka [symmetrically][website] 👋
 
-[![Website](https://img.shields.io/website?label=divsync.com&style=for-the-badge&url=https%3A%2F%2Fdivsync.com)](https://divsync.com)
+[![Website](https://img.shields.io/website?label=lhotse-analytics.com&style=for-the-badge&url=https%3A%2F%2Flhotse-analytics.com)](https://lhotse-analytics.com/)
 
 
 ## I'm a Developer and a Site Reliability Engineer!
 
-- 🔭  I’m currently working as a CTO at Divsync LDA [website]!
+- 🔭  I’m currently working as a Sr Elixir Architect at Lhotse Analytics GMBH [website]!
 - 🌱  I’m currently learning Machine Learning, AI and NLP.
 - 🥅  2020 Goals: Prepare and clear CKAD (Certified Kubernetes Application Developer) certification
 - ⚡  Fun fact: I have over 17000 Upwork hours with 100% client satisfaction
 
 ### Connect with me:
 
-[<img align="left" alt="divsync.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="lhotse-analytics.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="symmetrically | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="symmetrically | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
@@ -41,6 +41,6 @@
 
 ---
 
-[website]: https://divsync.com
+[website]: https://lhotse-analytics.com
 [linkedin]: https://www.linkedin.com/in/sadanmasroor/
 [upwork]: https://www.upwork.com/fl/sadanm?viewMode=1
