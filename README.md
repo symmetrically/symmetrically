@@ -8,9 +8,17 @@
 - 🔭  I’m currently working as a Sr Elixir Architect at Lhotse Analytics GMBH [website]!
 - 🌱  I’m currently learning Machine Learning, AI and NLP.
 - 🥅  2021 Goals: Finding new friends and start a new different chapter in my personal life. 
-- ⚡  Fun fact: I have over 17000 Upwork hours with 100% client satisfaction. 
-- 📕 Finished: The Promised Land by Barak Obama. ( https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160 )
-- 📖 Current: The Subtle Art of Not Giving a F*ck by Mark Manson ( https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713 )
+- ⚡  Fun fact: I have over 18000 Upwork hours with 100% client satisfaction. 
+
+## Books:  
+
+- 📖 Current: The Lean Startup by Eric Ries ( https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898 )
+
+- 📕 Finished: 
+     * The Promised Land by Barak Obama. ( https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160 )
+     * The Subtle Art of Not Giving a F*ck by Mark Manson ( https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713 )
+     
+     
 
 ### Connect with me:
 
